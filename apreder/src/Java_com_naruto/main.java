@@ -1,10 +1,10 @@
 package Java_com_naruto;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
       
         //obj_1
-        uzumaki naruto = new uzumaki();
+        Uzumaki naruto = new Uzumaki();
         naruto.SetNome("Naruto Uzumaki");
         naruto.getNome();
 
@@ -17,7 +17,7 @@ public class main {
        
 
         //obj_2
-        uchiha sasuke = new uchiha();
+        Uchiha sasuke = new Uchiha();
         sasuke.SetNome("Sasuke Uchiha");
         sasuke.SharinganAtivado();
         sasuke.ataqueBase();

@@ -1,5 +1,5 @@
 package Java_com_naruto;
-public class ninja {
+public class Ninja {
 
     private String nome ;
     private String aldeia;

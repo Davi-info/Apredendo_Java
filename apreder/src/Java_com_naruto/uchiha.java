@@ -1,6 +1,6 @@
 package Java_com_naruto;
 
-public class uchiha extends ninja {
+public class Uchiha extends Ninja {
 
 
     String nivelSharingan = "Sharingan 2";

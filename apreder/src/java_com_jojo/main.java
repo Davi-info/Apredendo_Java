@@ -1,10 +1,10 @@
 package java_com_jojo;
 
-public class main {  // A classe Main deve começar com a letra maiúscula em Java
+public class Main {  // A classe Main deve começar com a letra maiúscula em Java
     public static void main(String[] args) {
         
         // Criação do objeto Joestar e definindo o nome através do método setNome
-        joestar joseph = new joestar();
+        Joestar joseph = new Joestar();
         joseph.setNome("Jotaro kujo");  // Usando o método setNome para definir o nome
 
         // Mostrando informações antes de adquirir o Stand

@@ -1,6 +1,6 @@
 package java_com_jojo;
 
-public class joestar extends humano {
+public class Joestar extends Humano {
     
     private boolean temEstrela;
     private boolean possuiRamon;
